@@ -1,6 +1,4 @@
-\pp documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
