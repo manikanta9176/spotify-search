@@ -47,7 +47,7 @@ const Search = () => {
           placeholder="Search for music, artists, podcasts, and more..."
         />
         <button type="submit" className="search-button">
-          Just Click it
+          I Changed it
         </button>
       </form>
       {error && <div className="error-message">{error}</div>}
